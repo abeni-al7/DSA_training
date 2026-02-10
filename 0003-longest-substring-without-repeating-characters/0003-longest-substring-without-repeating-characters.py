@@ -5,7 +5,7 @@ class Solution:
         last_seen = defaultdict(int)
 
         for right in range(len(s)):
-            if s[right] in last_seen:
+            if s[right] in last_seen and last_seen[s[right]] >= left:
                 left = last_seen[s[right]] + 1
             
             last_seen[s[right]] = right
