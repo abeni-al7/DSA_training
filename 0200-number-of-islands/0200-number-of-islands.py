@@ -5,20 +5,23 @@ class Solution:
         inbound = lambda x, y: 0 <= x < rows and 0 <= y < cols
         count = 0
 
-        def dfs(i, j):
-            if not inbound(i, j):
-                return
-            if grid[i][j] != "1":
-                return
+        def bfs(i, j):
+            queue = deque([(i, j)])
             grid[i][j] = "0"
 
-            for x, y in directions:
-                dfs(i + x, j + y)
-
+            while queue:
+                i, j = queue.popleft()
+                
+                for x, y in directions:
+                    new_i, new_j = i + x, j + y
+                    if inbound(new_i, new_j) and grid[new_i][new_j] == "1":
+                        queue.append((new_i, new_j))
+                        grid[new_i][new_j] = "0"
+        
         for i in range(rows):
             for j in range(cols):
                 if grid[i][j] == "1":
-                    dfs(i, j)
+                    bfs(i, j)
                     count += 1
         
         return count
