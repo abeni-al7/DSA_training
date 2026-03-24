@@ -14,33 +14,17 @@ class Solution:
 
         clone = {}
 
-        queue = deque([node])
-        visited = set()
-
-        while queue:
-            curr = queue.popleft()
-            visited.add(curr)
-
-            if curr not in clone:
-                new = Node(curr.val)
-                clone[curr] = new
-            else:
-                new = clone[curr]
-
-            for nei in curr.neighbors:
-                new_nei = Node(nei.val) if nei not in clone else clone[nei]
-                if nei not in clone:
-                    new_nei = Node(nei.val)
-                    clone[nei] = new_nei
-                else:
-                    new_nei = clone[nei]
-
-                if new_nei not in new.neighbors:
-                    new.neighbors.append(new_nei)
-                if nei not in visited:
-                    queue.append(nei)
+        def dfs(current):
+            if current in clone:
+                return clone[current]
+            
+            new = Node(current.val)
+            clone[current] = new
+            for nei in current.neighbors:
+                new.neighbors.append(dfs(nei))
+            return new
         
-        return clone[node]
+        return dfs(node)
 
 """
     clone = {1: 1, 2: 2, 4: 4}
