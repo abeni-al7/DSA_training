@@ -12,19 +12,19 @@ class Solution:
         if not node:
             return None
 
-        clone = {}
+        clone = {node: Node(node.val)}
+        queue = deque([node])
 
-        def dfs(current):
-            if current in clone:
-                return clone[current]
-            
-            new = Node(current.val)
-            clone[current] = new
+        while queue:
+            current = queue.popleft()
             for nei in current.neighbors:
-                new.neighbors.append(dfs(nei))
-            return new
+                if nei not in clone:
+                    clone[nei] = Node(nei.val)
+                    queue.append(nei)
+                clone[current].neighbors.append(clone[nei])
+            
         
-        return dfs(node)
+        return clone[node]
 
 """
     clone = {1: 1, 2: 2, 4: 4}
