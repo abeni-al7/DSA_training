@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/abeni-al7/DSA_training/tree/master/0217-contains-duplicate) |
 | [0496-next-greater-element-i](https://github.com/abeni-al7/DSA_training/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/abeni-al7/DSA_training/tree/master/0739-daily-temperatures) |
+| [0792-binary-search](https://github.com/abeni-al7/DSA_training/tree/master/0792-binary-search) |
 ## Hash Table
 |  |
 | ------- |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/abeni-al7/DSA_training/tree/master/0098-validate-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/abeni-al7/DSA_training/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0792-binary-search](https://github.com/abeni-al7/DSA_training/tree/master/0792-binary-search) |
 ## Union-Find
 |  |
 | ------- |
