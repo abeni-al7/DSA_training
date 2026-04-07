@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/abeni-al7/DSA_training/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0133-clone-graph](https://github.com/abeni-al7/DSA_training/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/abeni-al7/DSA_training/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/abeni-al7/DSA_training/tree/master/0207-course-schedule) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/abeni-al7/DSA_training/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/abeni-al7/DSA_training/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0133-clone-graph](https://github.com/abeni-al7/DSA_training/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/abeni-al7/DSA_training/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/abeni-al7/DSA_training/tree/master/0207-course-schedule) |
 ## Binary Tree
 |  |
 | ------- |
@@ -95,4 +97,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/abeni-al7/DSA_training/tree/master/0133-clone-graph) |
+| [0207-course-schedule](https://github.com/abeni-al7/DSA_training/tree/master/0207-course-schedule) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/abeni-al7/DSA_training/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
