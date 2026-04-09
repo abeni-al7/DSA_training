@@ -1,27 +1,29 @@
 class Solution:
     def canFinish(self, numCourses: int, prerequisites: List[List[int]]) -> bool:
         graph = [[] for _ in range(numCourses)]
-        indegree = [0] * numCourses
+        color = [0] * numCourses
 
         for c, pre in prerequisites:
             graph[pre].append(c)
-            indegree[c] += 1
         
-        queue = deque([])
-        visited = set()
-        for i in range(len(indegree)):
-            if indegree[i] == 0:
-                queue.append(i)
-                visited.add(i)
-        
-        while queue:
-            current = queue.popleft()
-            for nei in graph[current]:
-                indegree[nei] -= 1
-                if indegree[nei] == 0:
-                    queue.append(nei)
-                    visited.add(nei)
+        def can_order(node):
+            if color[node] == 1:
+                return False
 
-        return len(visited) == numCourses
+            color[node] = 1
+            for c in graph[node]:
+                if color[c] == 2:
+                    continue
+                if not can_order(c):
+                    return False
+
+            color[node] = 2
+            return True
+        
+        for i, c in enumerate(color):
+            if c == 0:
+                if not can_order(i):
+                    return False
+        return True
 
             
