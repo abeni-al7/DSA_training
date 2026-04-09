@@ -21,7 +21,6 @@ class Solution:
                 if indegree[nei] == 0:
                     queue.append(nei)
                     visited.add(nei)
-        print(visited, len(visited))
 
         return len(visited) == numCourses
 
