@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/abeni-al7/DSA_training/tree/master/0033-search-in-rotated-sorted-array) |
 | [0049-group-anagrams](https://github.com/abeni-al7/DSA_training/tree/master/0049-group-anagrams) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/abeni-al7/DSA_training/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0200-number-of-islands](https://github.com/abeni-al7/DSA_training/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/abeni-al7/DSA_training/tree/master/0217-contains-duplicate) |
 | [0496-next-greater-element-i](https://github.com/abeni-al7/DSA_training/tree/master/0496-next-greater-element-i) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/abeni-al7/DSA_training/tree/master/0033-search-in-rotated-sorted-array) |
 | [0098-validate-binary-search-tree](https://github.com/abeni-al7/DSA_training/tree/master/0098-validate-binary-search-tree) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/abeni-al7/DSA_training/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/abeni-al7/DSA_training/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0792-binary-search](https://github.com/abeni-al7/DSA_training/tree/master/0792-binary-search) |
 ## Union-Find
