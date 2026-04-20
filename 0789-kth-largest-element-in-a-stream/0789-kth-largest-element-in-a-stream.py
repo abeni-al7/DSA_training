@@ -5,13 +5,11 @@ class KthLargest:
         self.stream = []
 
         for num in nums:
-            heapq.heappush(self.stream, num)
-            while len(self.stream) > k:
-                heapq.heappop(self.stream)
+            self.add(num)
 
     def add(self, val: int) -> int:
         heapq.heappush(self.stream, val)
-        while len(self.stream) > self.k:
+        if len(self.stream) > self.k:
             heapq.heappop(self.stream)
         return self.stream[0]
 # Your KthLargest object will be instantiated and called as such:
