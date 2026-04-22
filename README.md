@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/abeni-al7/DSA_training/tree/master/0049-group-anagrams) |
 | [0215-kth-largest-element-in-an-array](https://github.com/abeni-al7/DSA_training/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/abeni-al7/DSA_training/tree/master/0217-contains-duplicate) |
+| [0295-find-median-from-data-stream](https://github.com/abeni-al7/DSA_training/tree/master/0295-find-median-from-data-stream) |
 ## String
 |  |
 | ------- |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/abeni-al7/DSA_training/tree/master/0155-min-stack) |
+| [0295-find-median-from-data-stream](https://github.com/abeni-al7/DSA_training/tree/master/0295-find-median-from-data-stream) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/abeni-al7/DSA_training/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Monotonic Stack
 |  |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/abeni-al7/DSA_training/tree/master/0215-kth-largest-element-in-an-array) |
+| [0295-find-median-from-data-stream](https://github.com/abeni-al7/DSA_training/tree/master/0295-find-median-from-data-stream) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/abeni-al7/DSA_training/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Quickselect
 |  |
@@ -128,5 +131,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Data Stream
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/abeni-al7/DSA_training/tree/master/0295-find-median-from-data-stream) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/abeni-al7/DSA_training/tree/master/0789-kth-largest-element-in-a-stream) |
+## Two Pointers
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/abeni-al7/DSA_training/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
