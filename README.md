@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/abeni-al7/DSA_training/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/abeni-al7/DSA_training/tree/master/0207-course-schedule) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/abeni-al7/DSA_training/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [2582-minimum-score-of-a-path-between-two-cities](https://github.com/abeni-al7/DSA_training/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/abeni-al7/DSA_training/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/abeni-al7/DSA_training/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/abeni-al7/DSA_training/tree/master/0207-course-schedule) |
+| [2582-minimum-score-of-a-path-between-two-cities](https://github.com/abeni-al7/DSA_training/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 ## Binary Tree
 |  |
 | ------- |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/abeni-al7/DSA_training/tree/master/0200-number-of-islands) |
+| [2582-minimum-score-of-a-path-between-two-cities](https://github.com/abeni-al7/DSA_training/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 ## Matrix
 |  |
 | ------- |
@@ -111,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0133-clone-graph](https://github.com/abeni-al7/DSA_training/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/abeni-al7/DSA_training/tree/master/0207-course-schedule) |
+| [2582-minimum-score-of-a-path-between-two-cities](https://github.com/abeni-al7/DSA_training/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 ## Topological Sort
 |  |
 | ------- |
