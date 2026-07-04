@@ -25,7 +25,7 @@ class UnionFind:
         minimum = float('inf')
     
         for i in range(1, len(self.parent)):
-            if self.parent[i] == init:
+            if self.find(i) == init:
                 minimum = min(minimum, self.min_score[i])
 
         return minimum
