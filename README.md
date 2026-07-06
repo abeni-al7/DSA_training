@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/abeni-al7/DSA_training/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/abeni-al7/DSA_training/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/abeni-al7/DSA_training/tree/master/0792-binary-search) |
+| [1222-remove-covered-intervals](https://github.com/abeni-al7/DSA_training/tree/master/1222-remove-covered-intervals) |
 | [1234-number-of-paths-with-max-score](https://github.com/abeni-al7/DSA_training/tree/master/1234-number-of-paths-with-max-score) |
 ## Hash Table
 |  |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/abeni-al7/DSA_training/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/abeni-al7/DSA_training/tree/master/0217-contains-duplicate) |
 | [0295-find-median-from-data-stream](https://github.com/abeni-al7/DSA_training/tree/master/0295-find-median-from-data-stream) |
+| [1222-remove-covered-intervals](https://github.com/abeni-al7/DSA_training/tree/master/1222-remove-covered-intervals) |
 ## String
 |  |
 | ------- |
