@@ -156,4 +156,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1234-number-of-paths-with-max-score](https://github.com/abeni-al7/DSA_training/tree/master/1234-number-of-paths-with-max-score) |
+## Math
+|  |
+| ------- |
+| [4135-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/abeni-al7/DSA_training/tree/master/4135-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 <!---LeetCode Topics End-->
