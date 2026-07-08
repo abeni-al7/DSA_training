@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/abeni-al7/DSA_training/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/abeni-al7/DSA_training/tree/master/0049-group-anagrams) |
+| [4136-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/abeni-al7/DSA_training/tree/master/4136-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -160,4 +161,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [4135-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/abeni-al7/DSA_training/tree/master/4135-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [4136-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/abeni-al7/DSA_training/tree/master/4136-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [4136-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/abeni-al7/DSA_training/tree/master/4136-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 <!---LeetCode Topics End-->
