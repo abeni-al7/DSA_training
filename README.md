@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/abeni-al7/DSA_training/tree/master/0792-binary-search) |
 | [1222-remove-covered-intervals](https://github.com/abeni-al7/DSA_training/tree/master/1222-remove-covered-intervals) |
 | [1234-number-of-paths-with-max-score](https://github.com/abeni-al7/DSA_training/tree/master/1234-number-of-paths-with-max-score) |
+| [3838-path-existence-queries-in-a-graph-i](https://github.com/abeni-al7/DSA_training/tree/master/3838-path-existence-queries-in-a-graph-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/abeni-al7/DSA_training/tree/master/0133-clone-graph) |
 | [0217-contains-duplicate](https://github.com/abeni-al7/DSA_training/tree/master/0217-contains-duplicate) |
 | [0496-next-greater-element-i](https://github.com/abeni-al7/DSA_training/tree/master/0496-next-greater-element-i) |
+| [3838-path-existence-queries-in-a-graph-i](https://github.com/abeni-al7/DSA_training/tree/master/3838-path-existence-queries-in-a-graph-i) |
 ## Sorting
 |  |
 | ------- |
@@ -104,11 +106,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/abeni-al7/DSA_training/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/abeni-al7/DSA_training/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0792-binary-search](https://github.com/abeni-al7/DSA_training/tree/master/0792-binary-search) |
+| [3838-path-existence-queries-in-a-graph-i](https://github.com/abeni-al7/DSA_training/tree/master/3838-path-existence-queries-in-a-graph-i) |
 ## Union-Find
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/abeni-al7/DSA_training/tree/master/0200-number-of-islands) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/abeni-al7/DSA_training/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
+| [3838-path-existence-queries-in-a-graph-i](https://github.com/abeni-al7/DSA_training/tree/master/3838-path-existence-queries-in-a-graph-i) |
 ## Matrix
 |  |
 | ------- |
@@ -120,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/abeni-al7/DSA_training/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/abeni-al7/DSA_training/tree/master/0207-course-schedule) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/abeni-al7/DSA_training/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
+| [3838-path-existence-queries-in-a-graph-i](https://github.com/abeni-al7/DSA_training/tree/master/3838-path-existence-queries-in-a-graph-i) |
 ## Topological Sort
 |  |
 | ------- |
