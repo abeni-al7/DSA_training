@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1222-remove-covered-intervals](https://github.com/abeni-al7/DSA_training/tree/master/1222-remove-covered-intervals) |
 | [1234-number-of-paths-with-max-score](https://github.com/abeni-al7/DSA_training/tree/master/1234-number-of-paths-with-max-score) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/abeni-al7/DSA_training/tree/master/3838-path-existence-queries-in-a-graph-i) |
+| [3852-path-existence-queries-in-a-graph-ii](https://github.com/abeni-al7/DSA_training/tree/master/3852-path-existence-queries-in-a-graph-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/abeni-al7/DSA_training/tree/master/0217-contains-duplicate) |
 | [0295-find-median-from-data-stream](https://github.com/abeni-al7/DSA_training/tree/master/0295-find-median-from-data-stream) |
 | [1222-remove-covered-intervals](https://github.com/abeni-al7/DSA_training/tree/master/1222-remove-covered-intervals) |
+| [3852-path-existence-queries-in-a-graph-ii](https://github.com/abeni-al7/DSA_training/tree/master/3852-path-existence-queries-in-a-graph-ii) |
 ## String
 |  |
 | ------- |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0789-kth-largest-element-in-a-stream](https://github.com/abeni-al7/DSA_training/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0792-binary-search](https://github.com/abeni-al7/DSA_training/tree/master/0792-binary-search) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/abeni-al7/DSA_training/tree/master/3838-path-existence-queries-in-a-graph-i) |
+| [3852-path-existence-queries-in-a-graph-ii](https://github.com/abeni-al7/DSA_training/tree/master/3852-path-existence-queries-in-a-graph-ii) |
 ## Union-Find
 |  |
 | ------- |
@@ -125,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/abeni-al7/DSA_training/tree/master/0207-course-schedule) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/abeni-al7/DSA_training/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/abeni-al7/DSA_training/tree/master/3838-path-existence-queries-in-a-graph-i) |
+| [3852-path-existence-queries-in-a-graph-ii](https://github.com/abeni-al7/DSA_training/tree/master/3852-path-existence-queries-in-a-graph-ii) |
 ## Topological Sort
 |  |
 | ------- |
@@ -154,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/abeni-al7/DSA_training/tree/master/0295-find-median-from-data-stream) |
+| [3852-path-existence-queries-in-a-graph-ii](https://github.com/abeni-al7/DSA_training/tree/master/3852-path-existence-queries-in-a-graph-ii) |
 ## Merge Sort
 |  |
 | ------- |
@@ -162,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1234-number-of-paths-with-max-score](https://github.com/abeni-al7/DSA_training/tree/master/1234-number-of-paths-with-max-score) |
+| [3852-path-existence-queries-in-a-graph-ii](https://github.com/abeni-al7/DSA_training/tree/master/3852-path-existence-queries-in-a-graph-ii) |
 ## Math
 |  |
 | ------- |
@@ -171,4 +177,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [4136-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/abeni-al7/DSA_training/tree/master/4136-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+## Greedy
+|  |
+| ------- |
+| [3852-path-existence-queries-in-a-graph-ii](https://github.com/abeni-al7/DSA_training/tree/master/3852-path-existence-queries-in-a-graph-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3852-path-existence-queries-in-a-graph-ii](https://github.com/abeni-al7/DSA_training/tree/master/3852-path-existence-queries-in-a-graph-ii) |
 <!---LeetCode Topics End-->
