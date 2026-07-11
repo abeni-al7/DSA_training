@@ -1,30 +1,35 @@
 class Solution:
     def countCompleteComponents(self, n: int, edges: List[List[int]]) -> int:
-        graph = defaultdict(list)
+        graph = [[] for _ in range(n)]
 
         for u, v in edges:
             graph[u].append(v)
             graph[v].append(u)
 
-        completeCount = 0
-        visited = set()
-
-        def dfs(curr, info):
-            visited.add(curr)
-            info[0] += 1
-            info[1] += len(graph[curr])
-
-            for child in graph[curr]:
-                if child not in visited:
-                    dfs(child, info)
+        visited = [False] * n
+        complete_components = 0
             
         for i in range(n):
-            if i in visited:
-                continue
-            
-            componentInfo = [0, 0]
-            dfs(i, componentInfo)
+            if not visited[i]:
+                component = []
+                queue = deque([i])
+                visited[i] = True
 
-            if componentInfo[0] * (componentInfo[0] - 1) == componentInfo[1]:
-                completeCount += 1
-        return completeCount
+                while queue:
+                    current = queue.popleft()
+                    component.append(current)
+
+                    for nei in graph[current]:
+                        if not visited[nei]:
+                            queue.append(nei)
+                            visited[nei] = True
+                    
+                is_complete = True
+                for node in component:
+                    if len(graph[node]) != len(component) - 1:
+                        is_complete = False
+                        break
+                
+                if is_complete:
+                    complete_components += 1
+        return complete_components
