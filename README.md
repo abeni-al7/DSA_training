@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/abeni-al7/DSA_training/tree/master/0207-course-schedule) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/abeni-al7/DSA_training/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/abeni-al7/DSA_training/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
+| [2793-count-the-number-of-complete-components](https://github.com/abeni-al7/DSA_training/tree/master/2793-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/abeni-al7/DSA_training/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/abeni-al7/DSA_training/tree/master/0207-course-schedule) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/abeni-al7/DSA_training/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
+| [2793-count-the-number-of-complete-components](https://github.com/abeni-al7/DSA_training/tree/master/2793-count-the-number-of-complete-components) |
 ## Binary Tree
 |  |
 | ------- |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/abeni-al7/DSA_training/tree/master/0200-number-of-islands) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/abeni-al7/DSA_training/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
+| [2793-count-the-number-of-complete-components](https://github.com/abeni-al7/DSA_training/tree/master/2793-count-the-number-of-complete-components) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/abeni-al7/DSA_training/tree/master/3838-path-existence-queries-in-a-graph-i) |
 ## Matrix
 |  |
@@ -127,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/abeni-al7/DSA_training/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/abeni-al7/DSA_training/tree/master/0207-course-schedule) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/abeni-al7/DSA_training/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
+| [2793-count-the-number-of-complete-components](https://github.com/abeni-al7/DSA_training/tree/master/2793-count-the-number-of-complete-components) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/abeni-al7/DSA_training/tree/master/3838-path-existence-queries-in-a-graph-i) |
 | [3852-path-existence-queries-in-a-graph-ii](https://github.com/abeni-al7/DSA_training/tree/master/3852-path-existence-queries-in-a-graph-ii) |
 ## Topological Sort
