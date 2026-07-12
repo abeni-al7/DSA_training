@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/abeni-al7/DSA_training/tree/master/0792-binary-search) |
 | [1222-remove-covered-intervals](https://github.com/abeni-al7/DSA_training/tree/master/1222-remove-covered-intervals) |
 | [1234-number-of-paths-with-max-score](https://github.com/abeni-al7/DSA_training/tree/master/1234-number-of-paths-with-max-score) |
+| [1256-rank-transform-of-an-array](https://github.com/abeni-al7/DSA_training/tree/master/1256-rank-transform-of-an-array) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/abeni-al7/DSA_training/tree/master/3838-path-existence-queries-in-a-graph-i) |
 | [3852-path-existence-queries-in-a-graph-ii](https://github.com/abeni-al7/DSA_training/tree/master/3852-path-existence-queries-in-a-graph-ii) |
 ## Hash Table
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/abeni-al7/DSA_training/tree/master/0133-clone-graph) |
 | [0217-contains-duplicate](https://github.com/abeni-al7/DSA_training/tree/master/0217-contains-duplicate) |
 | [0496-next-greater-element-i](https://github.com/abeni-al7/DSA_training/tree/master/0496-next-greater-element-i) |
+| [1256-rank-transform-of-an-array](https://github.com/abeni-al7/DSA_training/tree/master/1256-rank-transform-of-an-array) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/abeni-al7/DSA_training/tree/master/3838-path-existence-queries-in-a-graph-i) |
 ## Sorting
 |  |
@@ -33,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/abeni-al7/DSA_training/tree/master/0217-contains-duplicate) |
 | [0295-find-median-from-data-stream](https://github.com/abeni-al7/DSA_training/tree/master/0295-find-median-from-data-stream) |
 | [1222-remove-covered-intervals](https://github.com/abeni-al7/DSA_training/tree/master/1222-remove-covered-intervals) |
+| [1256-rank-transform-of-an-array](https://github.com/abeni-al7/DSA_training/tree/master/1256-rank-transform-of-an-array) |
 | [3852-path-existence-queries-in-a-graph-ii](https://github.com/abeni-al7/DSA_training/tree/master/3852-path-existence-queries-in-a-graph-ii) |
 ## String
 |  |
