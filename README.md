@@ -192,4 +192,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3852-path-existence-queries-in-a-graph-ii](https://github.com/abeni-al7/DSA_training/tree/master/3852-path-existence-queries-in-a-graph-ii) |
+## Enumeration
+|  |
+| ------- |
+| [1212-sequential-digits](https://github.com/abeni-al7/DSA_training/tree/master/1212-sequential-digits) |
 <!---LeetCode Topics End-->
