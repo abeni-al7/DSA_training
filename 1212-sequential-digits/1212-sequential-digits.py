@@ -1,18 +1,15 @@
 class Solution:
     def sequentialDigits(self, low: int, high: int) -> List[int]:
         res = []
-        low_digit, high_digit = len(str(low)), len(str(high))
+        queue = deque(range(1, 10))
 
-        for digit in range(low_digit, high_digit + 1):
-            for start in range(1, 9):
-                if start + digit > 10:
-                    break
-                num = start
-                prev = start
-                for i in range(digit - 1):
-                    num *= 10
-                    prev += 1
-                    num += prev
-                if low <= num <= high:
-                    res.append(num)
+        while queue:
+            n = queue.popleft()
+            if n > high:
+                continue
+            if low <= n <= high:
+                res.append(n)
+            ones = n % 10
+            if ones < 9:
+                queue.append(n * 10 + (ones + 1))
         return res
