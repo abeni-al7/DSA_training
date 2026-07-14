@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1222-remove-covered-intervals](https://github.com/abeni-al7/DSA_training/tree/master/1222-remove-covered-intervals) |
 | [1234-number-of-paths-with-max-score](https://github.com/abeni-al7/DSA_training/tree/master/1234-number-of-paths-with-max-score) |
 | [1256-rank-transform-of-an-array](https://github.com/abeni-al7/DSA_training/tree/master/1256-rank-transform-of-an-array) |
+| [3608-find-the-number-of-subsequences-with-equal-gcd](https://github.com/abeni-al7/DSA_training/tree/master/3608-find-the-number-of-subsequences-with-equal-gcd) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/abeni-al7/DSA_training/tree/master/3838-path-existence-queries-in-a-graph-i) |
 | [3852-path-existence-queries-in-a-graph-ii](https://github.com/abeni-al7/DSA_training/tree/master/3852-path-existence-queries-in-a-graph-ii) |
 ## Hash Table
@@ -174,10 +175,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1234-number-of-paths-with-max-score](https://github.com/abeni-al7/DSA_training/tree/master/1234-number-of-paths-with-max-score) |
+| [3608-find-the-number-of-subsequences-with-equal-gcd](https://github.com/abeni-al7/DSA_training/tree/master/3608-find-the-number-of-subsequences-with-equal-gcd) |
 | [3852-path-existence-queries-in-a-graph-ii](https://github.com/abeni-al7/DSA_training/tree/master/3852-path-existence-queries-in-a-graph-ii) |
 ## Math
 |  |
 | ------- |
+| [3608-find-the-number-of-subsequences-with-equal-gcd](https://github.com/abeni-al7/DSA_training/tree/master/3608-find-the-number-of-subsequences-with-equal-gcd) |
 | [4135-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/abeni-al7/DSA_training/tree/master/4135-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [4136-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/abeni-al7/DSA_training/tree/master/4136-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Prefix Sum
@@ -196,4 +199,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1212-sequential-digits](https://github.com/abeni-al7/DSA_training/tree/master/1212-sequential-digits) |
+## Number Theory
+|  |
+| ------- |
+| [3608-find-the-number-of-subsequences-with-equal-gcd](https://github.com/abeni-al7/DSA_training/tree/master/3608-find-the-number-of-subsequences-with-equal-gcd) |
 <!---LeetCode Topics End-->
