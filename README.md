@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1234-number-of-paths-with-max-score](https://github.com/abeni-al7/DSA_training/tree/master/1234-number-of-paths-with-max-score) |
 | [1256-rank-transform-of-an-array](https://github.com/abeni-al7/DSA_training/tree/master/1256-rank-transform-of-an-array) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/abeni-al7/DSA_training/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/abeni-al7/DSA_training/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3608-find-the-number-of-subsequences-with-equal-gcd](https://github.com/abeni-al7/DSA_training/tree/master/3608-find-the-number-of-subsequences-with-equal-gcd) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/abeni-al7/DSA_training/tree/master/3838-path-existence-queries-in-a-graph-i) |
 | [3852-path-existence-queries-in-a-graph-ii](https://github.com/abeni-al7/DSA_training/tree/master/3852-path-existence-queries-in-a-graph-ii) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/abeni-al7/DSA_training/tree/master/0217-contains-duplicate) |
 | [0496-next-greater-element-i](https://github.com/abeni-al7/DSA_training/tree/master/0496-next-greater-element-i) |
 | [1256-rank-transform-of-an-array](https://github.com/abeni-al7/DSA_training/tree/master/1256-rank-transform-of-an-array) |
+| [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/abeni-al7/DSA_training/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/abeni-al7/DSA_training/tree/master/3838-path-existence-queries-in-a-graph-i) |
 ## Sorting
 |  |
@@ -206,4 +208,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3608-find-the-number-of-subsequences-with-equal-gcd](https://github.com/abeni-al7/DSA_training/tree/master/3608-find-the-number-of-subsequences-with-equal-gcd) |
+## Sliding Window
+|  |
+| ------- |
+| [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/abeni-al7/DSA_training/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 <!---LeetCode Topics End-->
