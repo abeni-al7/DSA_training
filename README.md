@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/abeni-al7/DSA_training/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/abeni-al7/DSA_training/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/abeni-al7/DSA_training/tree/master/0217-contains-duplicate) |
+| [0307-range-sum-query-mutable](https://github.com/abeni-al7/DSA_training/tree/master/0307-range-sum-query-mutable) |
 | [0496-next-greater-element-i](https://github.com/abeni-al7/DSA_training/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/abeni-al7/DSA_training/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/abeni-al7/DSA_training/tree/master/0792-binary-search) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/abeni-al7/DSA_training/tree/master/0155-min-stack) |
 | [0295-find-median-from-data-stream](https://github.com/abeni-al7/DSA_training/tree/master/0295-find-median-from-data-stream) |
+| [0307-range-sum-query-mutable](https://github.com/abeni-al7/DSA_training/tree/master/0307-range-sum-query-mutable) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/abeni-al7/DSA_training/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Monotonic Stack
 |  |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/abeni-al7/DSA_training/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/abeni-al7/DSA_training/tree/master/0215-kth-largest-element-in-an-array) |
+| [0307-range-sum-query-mutable](https://github.com/abeni-al7/DSA_training/tree/master/0307-range-sum-query-mutable) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -212,4 +215,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/abeni-al7/DSA_training/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/abeni-al7/DSA_training/tree/master/0307-range-sum-query-mutable) |
+## Segment Tree
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/abeni-al7/DSA_training/tree/master/0307-range-sum-query-mutable) |
+## Sqrt Decomposition
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/abeni-al7/DSA_training/tree/master/0307-range-sum-query-mutable) |
 <!---LeetCode Topics End-->
