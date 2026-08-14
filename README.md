@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/abeni-al7/DSA_training/tree/master/0496-next-greater-element-i) |
 | [1256-rank-transform-of-an-array](https://github.com/abeni-al7/DSA_training/tree/master/1256-rank-transform-of-an-array) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/abeni-al7/DSA_training/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3349-maximum-length-substring-with-two-occurrences](https://github.com/abeni-al7/DSA_training/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/abeni-al7/DSA_training/tree/master/3838-path-existence-queries-in-a-graph-i) |
 ## Sorting
 |  |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/abeni-al7/DSA_training/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/abeni-al7/DSA_training/tree/master/0049-group-anagrams) |
+| [3349-maximum-length-substring-with-two-occurrences](https://github.com/abeni-al7/DSA_training/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [4136-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/abeni-al7/DSA_training/tree/master/4136-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Linked List
 |  |
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/abeni-al7/DSA_training/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3349-maximum-length-substring-with-two-occurrences](https://github.com/abeni-al7/DSA_training/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 ## Binary Indexed Tree
 |  |
 | ------- |
